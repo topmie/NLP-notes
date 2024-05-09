@@ -32,8 +32,8 @@
 ## NLP开源书籍
 # Books-new
 * [Speech and Language Processing(3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/), Dan Jurafsky
-* [自然语言处理导论](https://intro-nlp.github.io/), 张奇、桂韬、黄萱菁
-* [神经网络与深度学习](https://nndl.github.io/nndl-book.pdf), 邱锡鹏
+* [自然语言处理导论](https://intro-nlp.github.io/), 张奇、桂韬、黄萱菁 2023-7-18 
+* [神经网络与深度学习](https://nndl.github.io/nndl-book.pdf), 邱锡鹏 2021-05-18
 # Books-'old'
 * [A Primer on Neural Network Models for Natural Language Processing(2015)](https://u.cs.biu.ac.il/~yogo/nnlp.pdf), Yoav Goldberg
 * [Natural Language Processing(2018)](https://cseweb.ucsd.edu/~nnakashole/teaching/eisenstein-nov18.pdf), Jacob Eisentein
