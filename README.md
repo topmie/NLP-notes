@@ -30,7 +30,8 @@
 ## NLP开源书籍
 # Books-new
 * [Speech and Language Processing(3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/), Dan Jurafsky
-* # Books-'old'
+* [自然语言处理导论](https://intro-nlp.github.io/), 张奇、桂韬、黄萱菁
+# Books-'old'
 * [A Primer on Neural Network Models for Natural Language Processing(2015)](https://u.cs.biu.ac.il/~yogo/nnlp.pdf), Yoav Goldberg
 * [Natural Language Processing(2018)](https://cseweb.ucsd.edu/~nnakashole/teaching/eisenstein-nov18.pdf), Jacob Eisentein
 * [Foundations of Statistical Natural Language Processing](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Statistical%20Natural%20Language%20Processing.pdf), Christhoper D. Manning (Old Fashioned)
