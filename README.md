@@ -32,7 +32,7 @@
 * [Speech and Language Processing(3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/), Dan Jurafsky
 * # Books-'old'
 * [A Primer on Neural Network Models for Natural Language Processing(2015)](https://u.cs.biu.ac.il/~yogo/nnlp.pdf), Yoav Goldberg
-* [Natural Language Processing(2018)](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), Jacob Eisentein
+* [Natural Language Processing(2018)](https://cseweb.ucsd.edu/~nnakashole/teaching/eisenstein-nov18.pdf), Jacob Eisentein
 * [Foundations of Statistical Natural Language Processing](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Statistical%20Natural%20Language%20Processing.pdf), Christhoper D. Manning (Old Fashioned)
 ## Mathematical Background for Machine Learning
 * [Introduction to Linear Algebra](http://students.aiu.edu/submissions/profiles/resources/onlineBook/Y5B7M4_Introduction_to_Linear_Algebra-_Fourth_Edition.pdf), Gilbert Strang
