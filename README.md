@@ -26,11 +26,14 @@
 - [Stanford University (Winter 2022) CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/)
 - [Princeton University (Fall 2022) COS 597G: Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
 - [ETH Zürich (Spring 2023) 263-5354-00L: Large Language Models ](https://rycolab.io/classes/llm-s23/)
+  🍟[LLM Course Notes Part 1](https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link)🍟
+  🍟[LLM Course Notes Part 2](https://drive.google.com/file/d/1PtxuMe6JZyBXBuuGkgDnnD3JRs_JEl5j/view?usp=share_link)🍟
 - [Shanghai Jiao Tong University (Spring 2024) : Large Language Models ](https://gair-nlp.github.io/cs2916/docs/intro)
 ## NLP开源书籍
 # Books-new
 * [Speech and Language Processing(3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/), Dan Jurafsky
 * [自然语言处理导论](https://intro-nlp.github.io/), 张奇、桂韬、黄萱菁
+* [神经网络与深度学习](https://nndl.github.io/nndl-book.pdf), 邱锡鹏
 # Books-'old'
 * [A Primer on Neural Network Models for Natural Language Processing(2015)](https://u.cs.biu.ac.il/~yogo/nnlp.pdf), Yoav Goldberg
 * [Natural Language Processing(2018)](https://cseweb.ucsd.edu/~nnakashole/teaching/eisenstein-nov18.pdf), Jacob Eisentein
