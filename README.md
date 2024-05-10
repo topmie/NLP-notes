@@ -1,4 +1,5 @@
 This repository stores NLP-related courses/books/websites.
+
 🍺🍺: **Highly Recommended**
 🍟🍟: **materials/videos**
 # Courses
